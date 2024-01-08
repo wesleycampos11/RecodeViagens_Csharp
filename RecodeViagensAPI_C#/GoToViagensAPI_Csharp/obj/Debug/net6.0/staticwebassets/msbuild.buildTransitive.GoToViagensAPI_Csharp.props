@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\GoToViagensAPI_Csharp.props" />
+</Project>
